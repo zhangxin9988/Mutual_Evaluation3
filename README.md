@@ -1,3 +1,4 @@
 # Mutual_Evaluation3
 数据挖掘第三次互评作业，选用的数据集是Hotel Booking Demand Datasets，文件包括数据预处理，数据挖掘过程代码，以及相应的描述文档  
-数据预处理代码和数据分析挖掘代码放在一个文件data_processing_and_mining.py中，相关的分析放在Hotel_booking_demand_mining.ipynb中，Hotel_booking_demand_mining.html中的内容与Hotel_booking_demand_mining.ipynb文件中的是一样的。
+数据预处理代码和数据分析挖掘代码放在一个文件data_processing_and_mining.py中，相关的分析放在Hotel_booking_demand_mining.ipynb中，Hotel_booking_demand_mining.html中的内容与Hotel_booking_demand_mining.ipynb文件中的是一样的。  
+姓名：张鑫 学号：3220201014 
